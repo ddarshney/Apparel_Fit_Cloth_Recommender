@@ -1,18 +1,12 @@
-# Apparel-Fit-Classification
+# Apparel-Fit Cloth Recommender
 Classification of Fashion images based on how the garments are fitting. 
-___
 
-### Apparel Fit
-Fit can be interpreted as how tight or loose a garment is fitting on a person.
 
 ### Technology 
 * Convolutional Neural Networks
-* Transfer Learning
-* Fine Tuning
 * Web Scraping
 
 ## Project Files
-* Final Capstone Proposal.pdf: Project Overview. 
 * main_notebook.ipynb: Main notebook of classification model.
 * fit_classification -2 training layers .ipynb: Secondary notebook with different version of model.
 * Visualize Activation.ipynb: Visualization of Activation map.
@@ -31,7 +25,6 @@ The dataset consists of 520 fashion images of men's tops. They have been given o
 *    Relaxed Fit
 *    Oversized
 
-All images were obtained from E-commerce websites or image searches and are in no way the property of the researcher.
 
 ### Directory Map
 
@@ -52,8 +45,5 @@ All images were obtained from E-commerce websites or image searches and are in n
             slim
             tight
  
- 
- ### Author - Loren Price 
- #### lorenjprice@gmail.com
 
 
